@@ -12,7 +12,7 @@ let startX = 400; //diver position at start
 let startY = -10;
 let p1X = startX;
 let p1Y = startY;
-let startHP = 3;  //playerhp
+let startHP = 4;  //playerhp
 let hp = startHP; 
 
 //multimedia
